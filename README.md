@@ -1,4 +1,4 @@
-# Sample tripe payment gateway in php without composer.
+# Sample stripe payment gateway in php without composer.
 
 Customise **Pay with Card**  button.
 
