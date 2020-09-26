@@ -1,4 +1,4 @@
-<?php require_once('./config.php'); ?>
+<?php require_once('./sample-config.php'); ?>
 
 <form action="sample-charge.php" method="post">
   <script src="https://checkout.stripe.com/checkout.js" class="stripe-button"
